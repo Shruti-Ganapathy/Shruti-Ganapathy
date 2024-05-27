@@ -1,7 +1,7 @@
 
 # Hi, I'm Shruti 🐱‍💻
 
-<img src="https://5s3s.ca/wp-content/uploads/2023/10/careers3.png" alt="banner that says Shruti Ganapathy - Software Engineer and Content Creator">
+<img src="https://5s3s.ca/wp-content/uploads/2023/10/careers3.png" alt="banner that says Shruti Ganapathy - Software Engineer and Content Creator on the image">
 
 I'm a software engineer that is passionate about fostering community, developing technology that elevates people, and making open-source contributions more approachable. one with years of expertise working with cutting-edge tools and processes like CI/CD, Docker, Python, and Terraform, and a focused attention on cloud technologies.
 
